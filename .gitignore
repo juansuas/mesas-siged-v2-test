@@ -1,0 +1,7 @@
+private/
+admin/
+__pycache__/
+*.xlsx
+*.tmp
+.env
+.env.*
