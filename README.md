@@ -15,6 +15,6 @@ El administrador, el Excel editable, los borradores, los respaldos y los archivo
 
 ## Contenidos
 
-Incluye 24 jurisdicciones, 25 desplegables, 14 publicaciones y 10 mesas. La clasificación territorial reproduce la versión anterior y no implica una actualización del relevamiento. Los resúmenes editoriales ausentes quedan pendientes de completar; la séptima mesa no tiene minuta disponible.
+Incluye 24 jurisdicciones, 25 desplegables, 14 publicaciones y 10 mesas. La clasificación territorial reproduce la versión anterior y no implica una actualización del relevamiento. Los resúmenes de publicaciones están desactivados; el campo se conserva para uso futuro y no es obligatorio cargarlos; la séptima mesa no tiene minuta disponible.
 
 Los documentos y enlaces institucionales conservan sus respectivas fuentes y autorías.
